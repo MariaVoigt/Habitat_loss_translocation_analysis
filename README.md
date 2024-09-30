@@ -1,7 +1,7 @@
 # Forest Loss and Orangutan Translocation Analysis
 ### Overview
 This repository contains a series of scripts developed for Sherman & Voigt et al (in review) to analyze forest cover changes in relation to orangutan translocation events. The aim is to measure forest loss before and after orangutan captures, assess whether forest loss influences the probability of orangutan captures, calculate distances between capture and release sites, and visualize forest loss over time. 
-Data to run scripts is deposited under: xxxx
+Data to run scripts is deposited under: https://doi.org/10.5281/zenodo.13864030 (available latest with publication)
 
 ---
 
